@@ -4,11 +4,12 @@ We also have a backend where all the connection made between database stored.
 The backend.py connects the frontend to the database(Here we are using sqlite3) where all the data get stored. Each of the functions defined in the backend.py fetch the required set of the data stored in the database(database name: routine) and return it to the function called.
 
 ## GUI Interface:
-ADD- To add new entry to the database.
-Search- To search any entry of the database.
-Delete date- To delete the entry from the database.
-View all- To view all the entries filled in the database.
-Close- To close the GUI.
+#### ADD- To add new entry to the database.
+#### Search- To search any entry of the database.
+#### Delete date- To delete the entry from the database.
+#### View all- To view all the entries filled in the database.
+#### Close- To close the GUI.
+
 ![image](https://user-images.githubusercontent.com/64552791/137791479-51cc309f-c8e3-41b6-8d29-5838f81bbf31.png)
 
 ### GUI INTERFACE ADDING NEW ENTRIES:
