@@ -23,3 +23,10 @@ The backend.py connects the frontend to the database(Here we are using sqlite3) 
 
 ### GUI INTERFACE DELETING AN ENTRY:
 ![image](https://user-images.githubusercontent.com/64552791/137792058-6f56da05-cfd0-4833-b53c-0372e243c983.png)
+
+# About Me:
+I am Jaya Verma, currently pursuing engineering from Electronics and telecommunication branch from the University of Mumbai.
+I am a 5star coder in Python and 4star in SQL at Hackerrank and intersted in Data Science and ML domain.
+
+### Connect me on 
+Linkedin - https://www.linkedin.com/in/jaya0902verma
